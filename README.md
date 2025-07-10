@@ -1,0 +1,2 @@
+# solyx
+Solyx Wallet
